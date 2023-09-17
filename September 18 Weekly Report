@@ -1,7 +1,14 @@
 Team
+Wrote CONOPS report
+Discussed Model making 
+Discussed what data needs to be scraped (news site, date, topic, content)
 
 
-Corpstein
+Alexander Corpstein
+Sign up for AWS account for database testing
+Looked at news websites HTML layout for understand for future use
+Researched ways to use Scrapy for news scrapping
+Looked at using Keywords from HTML to create topic data for future model use
 
 
 

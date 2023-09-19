@@ -17,4 +17,5 @@ Researched ways and looked at guides on how to use the gensim library
 James Nieberding
 Researched narratvie curves and possible ways of shaping them
 Researched gradient boosting libraries and how to implement them in a way to create narrative curves
+Looked into taking in a bag of words and creating a training and validation dataset
 

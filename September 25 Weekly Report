@@ -15,3 +15,9 @@ Tyler Shippy
 Instralled Anaconda for use of Jupyter Notebook instead of Spyder given 403 recommendation
 Conducted more research into the best NLP to process large amounts of text (Textblob can work with gensim)
 Worked on FSR, IDC, Milestone and Validation Plan
+
+James Nieberding
+Looked into using a Bag of words file to characterize the articles and group them into buckets
+Need to research 6 main story narratice arcs in order to know what paraemeters I need to characterize articles in the model
+
+

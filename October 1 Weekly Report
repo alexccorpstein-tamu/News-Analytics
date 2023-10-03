@@ -9,3 +9,8 @@ FSR,ICD,Milestone and Validation Plan
 Made test Scrapper
 Looking at possible problem that depending on the html code for a news site the scrapper made need to be indivualized for the website in question
 Verified all personal can access Olympus server
+
+Tyler Shippy
+FSR, ICD, Execution and Validation Plan
+Looked at using Newsdata.io for free to use large article datasets
+Worked in Jupyter to start on the text cleaner

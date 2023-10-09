@@ -1,0 +1,20 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+James Nieberding
+Changed to Python virtual environment for running things on Olympus
+Realized Bertopic only supports python3.7 or greater so switched to Gensim
+Gensim has a lot of the same functionality and has support for python 3.6.8 which is on the server
+Working on gensim and Pandas test run with only 10 headlines to understand how both work runs so that I can then scale it up

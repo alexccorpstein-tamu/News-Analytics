@@ -3,13 +3,10 @@ Held BiWeekly meeting with sponser
 Present project to class
 
 
-
 Alexander Corpstein
 Worked on scraper functionallity
 Completed test on one article
 upscaling scraper to work with website search
-
-
 
 
 James Nieberding
@@ -17,3 +14,8 @@ Changed to Python virtual environment for running things on Olympus
 Realized Bertopic only supports python3.7 or greater so switched to Gensim
 Gensim has a lot of the same functionality and has support for python 3.6.8 which is on the server
 Working on gensim and Pandas test run with only 10 headlines to understand how both work runs so that I can then scale it up
+
+
+Tyler Shippy
+Worked on the functionality of text cleaner
+Working on sentiment and subjectivity scoring of data from cleaner

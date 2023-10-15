@@ -6,8 +6,9 @@ Alexander Corpstein
 Continued to work on functionally of scraper
 Tested controlling database input and outputs
 
-
-
+Tyler Shippy
+Manually obtained small dataset on Texas A&M subjects for testing and importing as CSV
+Functional sentiment and subjectivity analyzer and data cleaner for a string of text (not CSV) - Concerns regarding technical merit.
 
 James Nieberding
 Have Gensim working using LDA model to group topics into topic buckets

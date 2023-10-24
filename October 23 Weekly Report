@@ -12,3 +12,9 @@ Tyler Shippy
 Got code running and workign on a CSV file
 Output saved onto a new CSV file
 Text cleaning code almost done (need lemmatization)
+
+
+James Nieberding
+Worked on implementing the continuous update for the topic modeling
+Finished up a rough barebone XGBoost model and tested with fake data
+Looking to expand the feature vectors for the XGBoost model

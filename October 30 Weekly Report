@@ -10,3 +10,9 @@ Tyler Shippy
 Met with Professor Nowka regarding technical merit
 Brainstormed options to add onto my project
 Looked at things like entity analysis, topic formation, tone  analysis, python visuals
+
+
+James Nieberding
+Created a cosine similiarity function to check if new articles don't relate to the previous group of articles
+This can be used to identify outliners as well if enough don't relate we can look into if there is another topic in the corpus which means we'd have to update hyperparameters
+Expanded the feature vectors in gradient boosting algorithm

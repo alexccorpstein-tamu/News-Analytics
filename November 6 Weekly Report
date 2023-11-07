@@ -11,3 +11,8 @@ Worked on Naive Bayes Classifier
 Figuring out how to classify emotions in text
 
 James Nieberding
+Testing topic modeller with datset with 5 topics already predetermined
+It works and can identify the 5 topics, looking at adding a script that can condense the topic to 1 word
+Have been working on training the gradient boosting model, I have created an optimization script and have been testing how it works
+I am going to use the dataset with 5 different topics, split them by topic and run it through my model for training
+WOrking on validation scripts, sponser told me about K-fold method but I don't know if that would be technical enough

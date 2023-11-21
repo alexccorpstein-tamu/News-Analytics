@@ -10,4 +10,6 @@ Continued Parameter Tuning
 Reached an output with R2 score of 88.2% and mean error scores about 1-3%
 
 Tyler
-
+Scrapped Naive Bayes Classifier
+Decided to turn towards Keras for Tensorflow
+Worked on getting model working for final presentation

@@ -9,6 +9,7 @@ Have functional for battalion partial for tamu.today
 Tyler Shippy
 Finalized functionality of my tensorflow model
 Tweets validation data is very good (~90%) but working on my testing data
+Continuing to work on model with different datasets to output meaningful results
 
 James Nieberding
 Got the model working with the validation set

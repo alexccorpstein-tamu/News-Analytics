@@ -6,12 +6,9 @@ Alexander Corpstein
 Worked on additonial scrapers
 Have functional for battalion partial for tamu.today
 
-
-
-
-
-
-
+Tyler Shippy
+Finalized functionality of my tensorflow model
+Tweets validation data is very good (~90%) but working on my testing data
 
 James Nieberding
 Got the model working with the validation set

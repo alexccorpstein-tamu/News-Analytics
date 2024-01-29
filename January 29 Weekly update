@@ -9,3 +9,9 @@ Discussed with James what is need for text cleaning for use by models
 Added code to scraper pipeline 
 
 James
+Added in Tyler's code for the sentiment and subjectivity analyzer
+Need to test and validate that part of the subsystem
+Validated the old subsystem before Tyler's part again
+
+
+

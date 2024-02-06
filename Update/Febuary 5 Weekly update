@@ -6,3 +6,10 @@ Add NTLK cleaner to Scrapy project
 Ran test to verify NLTK works
 Identified problem with unifing date format
 
+James
+Validated system with Tyler's code and works great
+Started working on connecting to Olympus database to begin integration process
+
+Execution Plan: https://docs.google.com/spreadsheets/d/1FNyxUtM5zj6dJoHenXrDNz0vOiHWFt0v3ED5dmM2gjU/edit?usp=sharing
+
+Validation Plan: https://docs.google.com/spreadsheets/d/1GoBpJKFZ7wdGA_ci5CGvpbL8JvGGVByElO2orF8249E/edit?usp=sharing

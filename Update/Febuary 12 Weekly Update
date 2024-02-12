@@ -1,1 +1,8 @@
+Team
+Clarified database entry format
+Fixed Permissions on database 
+
+Alex
+Got date formating working on all but CNN scraper
+Fixed entry duplication caused by NLTK
 

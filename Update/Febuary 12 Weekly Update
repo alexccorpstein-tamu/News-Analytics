@@ -6,3 +6,10 @@ Alex
 Got date formating working on all but CNN scraper
 Fixed entry duplication caused by NLTK
 
+
+James Nieberding
+Moved python environment to powershell
+Connected to olympus
+Able to write to previously created database
+Working on deleting and reading from database
+

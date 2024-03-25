@@ -2,3 +2,6 @@
 
 
 Alex
+Database corruption of RawData Table. Caused by improper closing of database conncection with multiple conncections
+Restored from backup data.
+Continued Scraping
